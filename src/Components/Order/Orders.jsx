@@ -33,7 +33,7 @@ const Orders = () => {
   return (
     <div>
       <h1>
-        Orders of <span>Anti Blue Ray Glass</span>
+        Orders of <span>Anti Blue Ray Glasses</span>
       </h1>
       <div className="tabs">
         <button
