@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "customer": "John Doe",
+        "deliveryType": "Regular"
+    },
+    {
+        "id": 2,
+        "customer": "Jane Smith",
+        "deliveryType": "Express"
+    },
+    {
+        "id": 3,
+        "customer": "Michael Johnson",
+        "deliveryType": "Regular"
+    },
+    {
+        "id": 4,
+        "customer": "Emily Davis",
+        "deliveryType": "Regular"
+    },
+    {
+        "id": 5,
+        "customer": "David Anderson",
+        "deliveryType": "Express"
+    },
+    {
+        "id": 6,
+        "customer": "Sarah Wilson",
+        "deliveryType": "Regular"
+    },
+    {
+        "id": 7,
+        "customer": "Daniel Thompson",
+        "deliveryType": "Express"
+    },
+    {
+        "id": 8,
+        "customer": "Olivia Martinez",
+        "deliveryType": "Regular"
+    },
+    {
+        "id": 9,
+        "customer": "James Taylor",
+        "deliveryType": "Express"
+    },
+    {
+        "id": 10,
+        "customer": "Sophia Brown",
+        "deliveryType": "Regular"
+    }
+]
