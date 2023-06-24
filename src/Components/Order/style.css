@@ -1,3 +1,6 @@
+body {
+background-color: #CAD5E2;
+font-family: "Poppins", sans-serif;}
 h1{
     text-align: center;
     margin: 30px 0;
@@ -29,15 +32,16 @@ span{
 .pagination {
     display: flex;
     justify-content: center;
-    margin-top: 20px;
+    margin-top: 10px;
 }
 
 .pagination button {
     border: none;
-    padding: 5px 10px;
+    padding: 10px 15px;
     font-size: 14px;
     cursor: pointer;
     margin-right: 5px;
+    border: 1px solid #207398;
 }
 
 .pagination button.active {
@@ -49,14 +53,38 @@ table {
     width: 80%;
     border-collapse: collapse;
     margin-bottom: 20px;
+    border: none;
 }
 table th,
 table td {
-    border: 1px solid #CAD5E2;
-    padding: 8px;
+    border: 1px solid #ebebeb;
+    padding: 10px;
+    background-color: white;
+}
+table th{
+background-color: #f2f2f2;
 }
 
-table th {
-    background-color: #f2f2f2;
-    font-weight: bold;
+table tr:first-child td,
+table tr:first-child th {
+    border-top: none;
+    /* Remove top border from first row */
+}
+
+table tr:last-child td,
+table tr:last-child {
+    border-bottom: none;
+    /* Remove bottom border from last row */
+}
+
+table td:first-child,
+table th:first-child {
+    border-left: none;
+    /* Remove left border from first column */
+}
+
+table td:last-child,
+table th:last-child {
+    border-right: none;
+    /* Remove right border from last column */
 }
