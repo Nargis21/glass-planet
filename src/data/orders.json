@@ -48,5 +48,55 @@
         "id": 10,
         "customer": "Sophia Brown",
         "deliveryType": "Regular"
+    },
+    {
+        "id": 11,
+        "customer": "Robert Johnson",
+        "deliveryType": "Regular"
+    },
+    {
+        "id": 12,
+        "customer": "Linda Wilson",
+        "deliveryType": "Express"
+    },
+    {
+        "id": 13,
+        "customer": "William Davis",
+        "deliveryType": "Regular"
+    },
+    {
+        "id": 14,
+        "customer": "Karen Thompson",
+        "deliveryType": "Regular"
+    },
+    {
+        "id": 15,
+        "customer": "Richard Anderson",
+        "deliveryType": "Express"
+    },
+    {
+        "id": 16,
+        "customer": "Susan Smith",
+        "deliveryType": "Regular"
+    },
+    {
+        "id": 17,
+        "customer": "Joseph Martinez",
+        "deliveryType": "Express"
+    },
+    {
+        "id": 18,
+        "customer": "Jessica Brown",
+        "deliveryType": "Regular"
+    },
+    {
+        "id": 19,
+        "customer": "Christopher Taylor",
+        "deliveryType": "Express"
+    },
+    {
+        "id": 20,
+        "customer": "Elizabeth Davis",
+        "deliveryType": "Regular"
     }
 ]

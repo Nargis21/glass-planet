@@ -1,7 +1,7 @@
 import React from "react";
 
 const OrderTable = ({ orders, currentPage, setCurrentPage }) => {
-  const itemsPerPage = 5;
+  const itemsPerPage = 10;
 
   const indexOfLastItem = currentPage * itemsPerPage;
   const indexOfFirstItem = indexOfLastItem - itemsPerPage;
